@@ -2,7 +2,7 @@ title: Hello github page
 author: trannguyenhan
 email: trannguyenhan01092000@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  learn github page
+  learn github page with trannguyenhan
 
 # social links
 twitter_username: trannguyenhan # DO NOT include the @ character, or else the build will fail!
